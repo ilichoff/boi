@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <CURRENCIES>
-  <LAST_UPDATE>2015-06-26</LAST_UPDATE>
+  <LAST_UPDATE>2016-09-02</LAST_UPDATE>
+    <CURRENCY>
+    <NAME>Warning!</NAME>
+    <UNIT>1</UNIT>
+    <CURRENCYCODE>USD</CURRENCYCODE>
+    <COUNTRY>USA</COUNTRY>
+    <RATE>3.792</RATE>
+    <CHANGE>Update this app</CHANGE>
+  </CURRENCY>
   <CURRENCY>
     <NAME>Dollar</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>USD</CURRENCYCODE>
     <COUNTRY>USA</COUNTRY>
     <RATE>3.792</RATE>
-    <CHANGE>0.584</CHANGE>
+    <CHANGE> </CHANGE>
   </CURRENCY>
   <CURRENCY>
     <NAME>Pound</NAME>
