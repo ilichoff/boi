@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="http://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Daily Foreign Exchange Rates for Israeli New Sheqel (ILS)</title>
+	<link>http://www.floatrates.com/currency/ils/</link>
+	<xmlLink>http://www.floatrates.com/daily/ils.xml</xmlLink>
+	<description>XML Daily foreign exchange rates for Israeli New Sheqel (ILS) from the Float Rates. Published at Wed, 29 Nov 2017 12:00:01 GMT.</description>
+	<language>en</language>
+	<baseCurrency>ILS</baseCurrency>
+	<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+	<lastBuildDate>Wed, 29 Nov 2017 12:00:01 GMT</lastBuildDate>
+	<item>
+		<title>1 ILS = 0.28550942 USD</title>
+		<link>http://www.floatrates.com/ils/usd/</link>
+		<description>1 Israeli New Sheqel = 0.28550942 U.S. Dollar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.28550942</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.24054649 EUR</title>
+		<link>http://www.floatrates.com/ils/eur/</link>
+		<description>1 Israeli New Sheqel = 0.24054649 Euro</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.24054649</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.21337557 GBP</title>
+		<link>http://www.floatrates.com/ils/gbp/</link>
+		<description>1 Israeli New Sheqel = 0.21337557 U.K. Pound Sterling</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.21337557</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.37568796 AUD</title>
+		<link>http://www.floatrates.com/ils/aud/</link>
+		<description>1 Israeli New Sheqel = 0.37568796 Australian Dollar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.37568796</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 31.80830772 JPY</title>
+		<link>http://www.floatrates.com/ils/jpy/</link>
+		<description>1 Israeli New Sheqel = 31.80830772 Japanese Yen</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>31.80830772</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.28071879 CHF</title>
+		<link>http://www.floatrates.com/ils/chf/</link>
+		<description>1 Israeli New Sheqel = 0.28071879 Swiss Franc</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.28071879</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.36539266 CAD</title>
+		<link>http://www.floatrates.com/ils/cad/</link>
+		<description>1 Israeli New Sheqel = 0.36539266 Canadian Dollar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.36539266</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.08608373 KWD</title>
+		<link>http://www.floatrates.com/ils/kwd/</link>
+		<description>1 Israeli New Sheqel = 0.08608373 Kuwaiti Dinar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.08608373</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 2.37802666 SEK</title>
+		<link>http://www.floatrates.com/ils/sek/</link>
+		<description>1 Israeli New Sheqel = 2.37802666 Swedish Krona</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>2.37802666</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 14.36532190 PHP</title>
+		<link>http://www.floatrates.com/ils/php/</link>
+		<description>1 Israeli New Sheqel = 14.36532190 Philippine Peso</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>14.36532190</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 2.51676729 TJS</title>
+		<link>http://www.floatrates.com/ils/tjs/</link>
+		<description>1 Israeli New Sheqel = 2.51676729 Tajikistan Ruble</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>TJS</targetCurrency>
+		<targetName>Tajikistan Ruble</targetName>
+		<exchangeRate>2.51676729</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.38449553 BND</title>
+		<link>http://www.floatrates.com/ils/bnd/</link>
+		<description>1 Israeli New Sheqel = 0.38449553 Brunei Dollar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.38449553</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 9.70769135 MUR</title>
+		<link>http://www.floatrates.com/ils/mur/</link>
+		<description>1 Israeli New Sheqel = 9.70769135 Mauritian Rupee</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>9.70769135</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 1.93312716 TTD</title>
+		<link>http://www.floatrates.com/ils/ttd/</link>
+		<description>1 Israeli New Sheqel = 1.93312716 Trinidad Tobago Dollar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>1.93312716</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 8.56217395 TWD</title>
+		<link>http://www.floatrates.com/ils/twd/</link>
+		<description>1 Israeli New Sheqel = 8.56217395 New Taiwan Dollar </description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>8.56217395</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 5.06203614 EGP</title>
+		<link>http://www.floatrates.com/ils/egp/</link>
+		<description>1 Israeli New Sheqel = 5.06203614 Egyptian Pound</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>EGP</targetCurrency>
+		<targetName>Egyptian Pound</targetName>
+		<exchangeRate>5.06203614</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 852.99917874 COP</title>
+		<link>http://www.floatrates.com/ils/cop/</link>
+		<description>1 Israeli New Sheqel = 852.99917874 Colombian Peso</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>852.99917874</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 2.34032537 NOK</title>
+		<link>http://www.floatrates.com/ils/nok/</link>
+		<description>1 Israeli New Sheqel = 2.34032537 Norwegian Krone</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>2.34032537</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 2.84855365 VEF</title>
+		<link>http://www.floatrates.com/ils/vef/</link>
+		<description>1 Israeli New Sheqel = 2.84855365 Venezuelan Bolivar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar</targetName>
+		<exchangeRate>2.84855365</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 87.16602511 NGN</title>
+		<link>http://www.floatrates.com/ils/ngn/</link>
+		<description>1 Israeli New Sheqel = 87.16602511 Nigerian Naira</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>NGN</targetCurrency>
+		<targetName>Nigerian Naira</targetName>
+		<exchangeRate>87.16602511</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 431.09460727 LBP</title>
+		<link>http://www.floatrates.com/ils/lbp/</link>
+		<description>1 Israeli New Sheqel = 431.09460727 Lebanese Pound</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>LBP</targetCurrency>
+		<targetName>Lebanese Pound</targetName>
+		<exchangeRate>431.09460727</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 74.80792646 HUF</title>
+		<link>http://www.floatrates.com/ils/huf/</link>
+		<description>1 Israeli New Sheqel = 74.80792646 Hungarian Forint</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>74.80792646</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 1.01070834 PLN</title>
+		<link>http://www.floatrates.com/ils/pln/</link>
+		<description>1 Israeli New Sheqel = 1.01070834 Polish Zloty</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>1.01070834</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 13.68001243 DOP</title>
+		<link>http://www.floatrates.com/ils/dop/</link>
+		<description>1 Israeli New Sheqel = 13.68001243 Dominican Peso</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>DOP</targetCurrency>
+		<targetName>Dominican Peso</targetName>
+		<exchangeRate>13.68001243</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 101.03577584 MRO</title>
+		<link>http://www.floatrates.com/ils/mro/</link>
+		<description>1 Israeli New Sheqel = 101.03577584 Mauritanian Ouguiya</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>MRO</targetCurrency>
+		<targetName>Mauritanian Ouguiya</targetName>
+		<exchangeRate>101.03577584</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 8.26271770 UYU</title>
+		<link>http://www.floatrates.com/ils/uyu/</link>
+		<description>1 Israeli New Sheqel = 8.26271770 Uruguayan Peso</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>UYU</targetCurrency>
+		<targetName>Uruguayan Peso</targetName>
+		<exchangeRate>8.26271770</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 3,860.30633342 IDR</title>
+		<link>http://www.floatrates.com/ils/idr/</link>
+		<description>1 Israeli New Sheqel = 3,860.30633342 Indonesian Rupiah</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>3,860.30633342</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 1.07066976 SAR</title>
+		<link>http://www.floatrates.com/ils/sar/</link>
+		<description>1 Israeli New Sheqel = 1.07066976 Saudi Riyal</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>1.07066976</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 1.81455298 HRK</title>
+		<link>http://www.floatrates.com/ils/hrk/</link>
+		<description>1 Israeli New Sheqel = 1.81455298 Croatian Kuna</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>1.81455298</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 138.32980358 AMD</title>
+		<link>http://www.floatrates.com/ils/amd/</link>
+		<description>1 Israeli New Sheqel = 138.32980358 Armenia Dram</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>AMD</targetCurrency>
+		<targetName>Armenia Dram</targetName>
+		<exchangeRate>138.32980358</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 8.75357598 NIO</title>
+		<link>http://www.floatrates.com/ils/nio/</link>
+		<description>1 Israeli New Sheqel = 8.75357598 Nicaraguan Córdoba</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>NIO</targetCurrency>
+		<targetName>Nicaraguan Córdoba</targetName>
+		<exchangeRate>8.75357598</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 32.80937229 DZD</title>
+		<link>http://www.floatrates.com/ils/dzd/</link>
+		<description>1 Israeli New Sheqel = 32.80937229 Algerian Dinar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>32.80937229</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 309.15901004 KRW</title>
+		<link>http://www.floatrates.com/ils/krw/</link>
+		<description>1 Israeli New Sheqel = 309.15901004 South Korean Won</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>309.15901004</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 43.85858624 LKR</title>
+		<link>http://www.floatrates.com/ils/lkr/</link>
+		<description>1 Israeli New Sheqel = 43.85858624 Sri Lanka Rupee</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>43.85858624</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 5.29445545 MXN</title>
+		<link>http://www.floatrates.com/ils/mxn/</link>
+		<description>1 Israeli New Sheqel = 5.29445545 Mexican Peso</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>5.29445545</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 1.00053940 TMT</title>
+		<link>http://www.floatrates.com/ils/tmt/</link>
+		<description>1 Israeli New Sheqel = 1.00053940 New Turkmenistan Manat</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>TMT</targetCurrency>
+		<targetName>New Turkmenistan Manat</targetName>
+		<exchangeRate>1.00053940</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 2.95558403 BWP</title>
+		<link>http://www.floatrates.com/ils/bwp/</link>
+		<description>1 Israeli New Sheqel = 2.95558403 Botswana Pula</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>2.95558403</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 1.17326403 MYR</title>
+		<link>http://www.floatrates.com/ils/myr/</link>
+		<description>1 Israeli New Sheqel = 1.17326403 Malaysian Ringgit</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>1.17326403</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 9.30056785 THB</title>
+		<link>http://www.floatrates.com/ils/thb/</link>
+		<description>1 Israeli New Sheqel = 9.30056785 Thai Baht</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>9.30056785</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 157.53861108 XOF</title>
+		<link>http://www.floatrates.com/ils/xof/</link>
+		<description>1 Israeli New Sheqel = 157.53861108 West African CFA Franc</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>XOF</targetCurrency>
+		<targetName>West African CFA Franc</targetName>
+		<exchangeRate>157.53861108</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 7.71564730 UAH</title>
+		<link>http://www.floatrates.com/ils/uah/</link>
+		<description>1 Israeli New Sheqel = 7.71564730 Ukrainian Hryvnia</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>UAH</targetCurrency>
+		<targetName>Ukrainian Hryvnia</targetName>
+		<exchangeRate>7.71564730</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 181.68057556 CLP</title>
+		<link>http://www.floatrates.com/ils/clp/</link>
+		<description>1 Israeli New Sheqel = 181.68057556 Chilean Peso</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>181.68057556</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.41312363 NZD</title>
+		<link>http://www.floatrates.com/ils/nzd/</link>
+		<description>1 Israeli New Sheqel = 0.41312363 New Zealand Dollar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.41312363</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 1.04858026 AED</title>
+		<link>http://www.floatrates.com/ils/aed/</link>
+		<description>1 Israeli New Sheqel = 1.04858026 U.A.E Dirham</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>1.04858026</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.91655824 PGK</title>
+		<link>http://www.floatrates.com/ils/pgk/</link>
+		<description>1 Israeli New Sheqel = 0.91655824 Papua New Guinean kina</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>PGK</targetCurrency>
+		<targetName>Papua New Guinean kina</targetName>
+		<exchangeRate>0.91655824</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.20257631 JOD</title>
+		<link>http://www.floatrates.com/ils/jod/</link>
+		<description>1 Israeli New Sheqel = 0.20257631 Jordanian Dinar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>JOD</targetCurrency>
+		<targetName>Jordanian Dinar</targetName>
+		<exchangeRate>0.20257631</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 1.78971384 DKK</title>
+		<link>http://www.floatrates.com/ils/dkk/</link>
+		<description>1 Israeli New Sheqel = 1.78971384 Danish Krone</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>1.78971384</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 30.11544702 PKR</title>
+		<link>http://www.floatrates.com/ils/pkr/</link>
+		<description>1 Israeli New Sheqel = 30.11544702 Pakistani Rupee</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>30.11544702</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.91916648 BRL</title>
+		<link>http://www.floatrates.com/ils/brl/</link>
+		<description>1 Israeli New Sheqel = 0.91916648 Brazilian Real</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.91916648</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.57133281 BYN</title>
+		<link>http://www.floatrates.com/ils/byn/</link>
+		<description>1 Israeli New Sheqel = 0.57133281 Belarussian Ruble</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>BYN</targetCurrency>
+		<targetName>Belarussian Ruble</targetName>
+		<exchangeRate>0.57133281</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 1,618.67322546 PYG</title>
+		<link>http://www.floatrates.com/ils/pyg/</link>
+		<description>1 Israeli New Sheqel = 1,618.67322546 Paraguayan Guaraní</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>PYG</targetCurrency>
+		<targetName>Paraguayan Guaraní</targetName>
+		<exchangeRate>1,618.67322546</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 18.39065278 INR</title>
+		<link>http://www.floatrates.com/ils/inr/</link>
+		<description>1 Israeli New Sheqel = 18.39065278 Indian Rupee</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>18.39065278</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 16.65963552 RUB</title>
+		<link>http://www.floatrates.com/ils/rub/</link>
+		<description>1 Israeli New Sheqel = 16.65963552 Russian Rouble</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>16.65963552</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 1.11641196 RON</title>
+		<link>http://www.floatrates.com/ils/ron/</link>
+		<description>1 Israeli New Sheqel = 1.11641196 Romanian New Leu</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>1.11641196</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.48493795 AZN</title>
+		<link>http://www.floatrates.com/ils/azn/</link>
+		<description>1 Israeli New Sheqel = 0.48493795 Azerbaijan Manat</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>AZN</targetCurrency>
+		<targetName>Azerbaijan Manat</targetName>
+		<exchangeRate>0.48493795</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 161.49554681 CRC</title>
+		<link>http://www.floatrates.com/ils/crc/</link>
+		<description>1 Israeli New Sheqel = 161.49554681 Costa Rican Colón</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>CRC</targetCurrency>
+		<targetName>Costa Rican Colón</targetName>
+		<exchangeRate>161.49554681</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 94.63928585 KZT</title>
+		<link>http://www.floatrates.com/ils/kzt/</link>
+		<description>1 Israeli New Sheqel = 94.63928585 Kazakhstani Tenge</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>94.63928585</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 3.92260390 ZAR</title>
+		<link>http://www.floatrates.com/ils/zar/</link>
+		<description>1 Israeli New Sheqel = 3.92260390 South African Rand</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>3.92260390</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 2.22791431 HKD</title>
+		<link>http://www.floatrates.com/ils/hkd/</link>
+		<description>1 Israeli New Sheqel = 2.22791431 Hong Kong Dollar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>2.22791431</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 4.92967171 MDL</title>
+		<link>http://www.floatrates.com/ils/mdl/</link>
+		<description>1 Israeli New Sheqel = 4.92967171 Moldova Lei</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>MDL</targetCurrency>
+		<targetName>Moldova Lei</targetName>
+		<exchangeRate>4.92967171</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.10735154 BHD</title>
+		<link>http://www.floatrates.com/ils/bhd/</link>
+		<description>1 Israeli New Sheqel = 0.10735154 Bahrain Dinar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>BHD</targetCurrency>
+		<targetName>Bahrain Dinar</targetName>
+		<exchangeRate>0.10735154</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.21573421 LYD</title>
+		<link>http://www.floatrates.com/ils/lyd/</link>
+		<description>1 Israeli New Sheqel = 0.21573421 Libyan Dinar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.21573421</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 157.53861108 XAF</title>
+		<link>http://www.floatrates.com/ils/xaf/</link>
+		<description>1 Israeli New Sheqel = 157.53861108 Central African CFA Franc</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>157.53861108</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 2,311.44842673 UZS</title>
+		<link>http://www.floatrates.com/ils/uzs/</link>
+		<description>1 Israeli New Sheqel = 2,311.44842673 Uzbekistan Sum</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>UZS</targetCurrency>
+		<targetName>Uzbekistan Sum</targetName>
+		<exchangeRate>2,311.44842673</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 29.46742696 NPR</title>
+		<link>http://www.floatrates.com/ils/npr/</link>
+		<description>1 Israeli New Sheqel = 29.46742696 Nepalese Rupee</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>29.46742696</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.70781097 TND</title>
+		<link>http://www.floatrates.com/ils/tnd/</link>
+		<description>1 Israeli New Sheqel = 0.70781097 Tunisian Dinar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>0.70781097</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 6,488.68096888 VND</title>
+		<link>http://www.floatrates.com/ils/vnd/</link>
+		<description>1 Israeli New Sheqel = 6,488.68096888 Vietnamese Dong</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>VND</targetCurrency>
+		<targetName>Vietnamese Dong</targetName>
+		<exchangeRate>6,488.68096888</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 28.83645115 RSD</title>
+		<link>http://www.floatrates.com/ils/rsd/</link>
+		<description>1 Israeli New Sheqel = 28.83645115 Serbian Dinar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>28.83645115</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 6.12262307 CZK</title>
+		<link>http://www.floatrates.com/ils/czk/</link>
+		<description>1 Israeli New Sheqel = 6.12262307 Czech Koruna</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>6.12262307</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.10977837 OMR</title>
+		<link>http://www.floatrates.com/ils/omr/</link>
+		<description>1 Israeli New Sheqel = 0.10977837 Omani Rial</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.10977837</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.57101883 BBD</title>
+		<link>http://www.floatrates.com/ils/bbd/</link>
+		<description>1 Israeli New Sheqel = 0.57101883 Barbadian Dollar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>BBD</targetCurrency>
+		<targetName>Barbadian Dollar</targetName>
+		<exchangeRate>0.57101883</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.92393198 PEN</title>
+		<link>http://www.floatrates.com/ils/pen/</link>
+		<description>1 Israeli New Sheqel = 0.92393198 Peruvian Nuevo Sol</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>0.92393198</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 4.95947180 ARS</title>
+		<link>http://www.floatrates.com/ils/ars/</link>
+		<description>1 Israeli New Sheqel = 4.95947180 Argentine Peso</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>4.95947180</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 1.88429537 CNY</title>
+		<link>http://www.floatrates.com/ils/cny/</link>
+		<description>1 Israeli New Sheqel = 1.88429537 Chinese Yuan</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>1.88429537</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 29.63873261 ISK</title>
+		<link>http://www.floatrates.com/ils/isk/</link>
+		<description>1 Israeli New Sheqel = 29.63873261 Icelandic Krona</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>29.63873261</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 1.03925428 QAR</title>
+		<link>http://www.floatrates.com/ils/qar/</link>
+		<description>1 Israeli New Sheqel = 1.03925428 Qatari Rial</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>1.03925428</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.47041153 BGN</title>
+		<link>http://www.floatrates.com/ils/bgn/</link>
+		<description>1 Israeli New Sheqel = 0.47041153 Bulgarian Lev</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.47041153</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 2.67699340 MAD</title>
+		<link>http://www.floatrates.com/ils/mad/</link>
+		<description>1 Israeli New Sheqel = 2.67699340 Moroccan Dirham</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>2.67699340</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 1.95859460 BOB</title>
+		<link>http://www.floatrates.com/ils/bob/</link>
+		<description>1 Israeli New Sheqel = 1.95859460 Bolivian Boliviano</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>BOB</targetCurrency>
+		<targetName>Bolivian Boliviano</targetName>
+		<exchangeRate>1.95859460</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 0.38422019 SGD</title>
+		<link>http://www.floatrates.com/ils/sgd/</link>
+		<description>1 Israeli New Sheqel = 0.38422019 Singapore Dollar</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.38422019</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 1.12167618 TRY</title>
+		<link>http://www.floatrates.com/ils/try/</link>
+		<description>1 Israeli New Sheqel = 1.12167618 Turkish Lira</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>1.12167618</exchangeRate>
+	</item>
+	<item>
+		<title>1 ILS = 19.90000857 KGS</title>
+		<link>http://www.floatrates.com/ils/kgs/</link>
+		<description>1 Israeli New Sheqel = 19.90000857 Kyrgyzstan Som</description>
+		<pubDate>Wed, 29 Nov 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>ILS</baseCurrency>
+		<baseName>Israeli New Sheqel</baseName>
+		<targetCurrency>KGS</targetCurrency>
+		<targetName>Kyrgyzstan Som</targetName>
+		<exchangeRate>19.90000857</exchangeRate>
+	</item>
+</channel>
