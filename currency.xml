@@ -1,101 +1,165 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <CURRENCIES>
+<<<<<<< HEAD
+  <LAST_UPDATE>2018-07-31</LAST_UPDATE>
+=======
   <LAST_UPDATE>2018-07-30</LAST_UPDATE>
+>>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
   <CURRENCY>
     <NAME>Dollar</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>USD</CURRENCYCODE>
     <COUNTRY>USA</COUNTRY>
+<<<<<<< HEAD
+    <RATE>3.664</RATE>
+    <CHANGE>-0.082</CHANGE>
+=======
     <RATE>3.667</RATE>
     <CHANGE>0</CHANGE>
+>>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
   </CURRENCY>
   <CURRENCY>
     <NAME>Pound</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>GBP</CURRENCYCODE>
     <COUNTRY>Great Britain</COUNTRY>
+<<<<<<< HEAD
+    <RATE>4.8233</RATE>
+    <CHANGE>0.291</CHANGE>
+=======
     <RATE>4.8093</RATE>
     <CHANGE>0.16</CHANGE>
+>>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
   </CURRENCY>
   <CURRENCY>
     <NAME>Yen</NAME>
     <UNIT>100</UNIT>
     <CURRENCYCODE>JPY</CURRENCYCODE>
     <COUNTRY>Japan</COUNTRY>
+<<<<<<< HEAD
+    <RATE>3.2852</RATE>
+    <CHANGE>-0.485</CHANGE>
+=======
     <RATE>3.3012</RATE>
     <CHANGE>0.094</CHANGE>
+>>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
   </CURRENCY>
   <CURRENCY>
     <NAME>Euro</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>EUR</CURRENCYCODE>
     <COUNTRY>EMU</COUNTRY>
+<<<<<<< HEAD
+    <RATE>4.3004</RATE>
+    <CHANGE>0.359</CHANGE>
+=======
     <RATE>4.2850</RATE>
     <CHANGE>0.483</CHANGE>
+>>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
   </CURRENCY>
   <CURRENCY>
     <NAME>Dollar</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>AUD</CURRENCYCODE>
     <COUNTRY>Australia</COUNTRY>
+<<<<<<< HEAD
+    <RATE>2.7198</RATE>
+    <CHANGE>0.228</CHANGE>
+=======
     <RATE>2.7136</RATE>
     <CHANGE>0.355</CHANGE>
+>>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
   </CURRENCY>
   <CURRENCY>
     <NAME>Dollar</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>CAD</CURRENCYCODE>
     <COUNTRY>Canada</COUNTRY>
+<<<<<<< HEAD
+    <RATE>2.8083</RATE>
+    <CHANGE>-0.06</CHANGE>
+=======
     <RATE>2.81</RATE>
     <CHANGE>0.153</CHANGE>
+>>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
   </CURRENCY>
   <CURRENCY>
     <NAME>krone</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>DKK</CURRENCYCODE>
     <COUNTRY>Denmark</COUNTRY>
+<<<<<<< HEAD
+    <RATE>0.5772</RATE>
+    <CHANGE>0.348</CHANGE>
+=======
     <RATE>0.5752</RATE>
     <CHANGE>0.507</CHANGE>
+>>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
   </CURRENCY>
   <CURRENCY>
     <NAME>Krone</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>NOK</CURRENCYCODE>
     <COUNTRY>Norway</COUNTRY>
+<<<<<<< HEAD
+    <RATE>0.4511</RATE>
+    <CHANGE>0.289</CHANGE>
+=======
     <RATE>0.4498</RATE>
     <CHANGE>0.717</CHANGE>
+>>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
   </CURRENCY>
   <CURRENCY>
     <NAME>Rand</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>ZAR</CURRENCYCODE>
     <COUNTRY>South Africa</COUNTRY>
+<<<<<<< HEAD
+    <RATE>0.2795</RATE>
+    <CHANGE>0.431</CHANGE>
+=======
     <RATE>0.2783</RATE>
     <CHANGE>0.506</CHANGE>
+>>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
   </CURRENCY>
   <CURRENCY>
     <NAME>Krona</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>SEK</CURRENCYCODE>
     <COUNTRY>Sweden</COUNTRY>
+<<<<<<< HEAD
+    <RATE>0.4190</RATE>
+    <CHANGE>0.096</CHANGE>
+=======
     <RATE>0.4186</RATE>
     <CHANGE>1.062</CHANGE>
+>>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
   </CURRENCY>
   <CURRENCY>
     <NAME>Franc</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>CHF</CURRENCYCODE>
     <COUNTRY>Switzerland</COUNTRY>
+<<<<<<< HEAD
+    <RATE>3.7081</RATE>
+    <CHANGE>0.317</CHANGE>
+=======
     <RATE>3.6964</RATE>
     <CHANGE>0.489</CHANGE>
+>>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
   </CURRENCY>
   <CURRENCY>
     <NAME>Dinar</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>JOD</CURRENCYCODE>
     <COUNTRY>Jordan</COUNTRY>
+<<<<<<< HEAD
+    <RATE>5.1642</RATE>
+    <CHANGE>-0.068</CHANGE>
+=======
     <RATE>5.1677</RATE>
     <CHANGE>0.014</CHANGE>
+>>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
   </CURRENCY>
   <CURRENCY>
     <NAME>Pound</NAME>
@@ -110,7 +174,14 @@
     <UNIT>1</UNIT>
     <CURRENCYCODE>EGP</CURRENCYCODE>
     <COUNTRY>Egypt</COUNTRY>
+<<<<<<< HEAD
+    <RATE>0.2050</RATE>
+    <CHANGE>0.196</CHANGE>
+  </CURRENCY>
+</CURRENCIES>S>S>ES>
+=======
     <RATE>0.2046</RATE>
     <CHANGE>-0.146</CHANGE>
   </CURRENCY>
 </CURRENCIES>CURRENCIES>S>ES>
+>>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
