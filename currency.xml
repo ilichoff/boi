@@ -72,6 +72,7 @@
     <COUNTRY>South Africa</COUNTRY>
     <RATE>0.2767</RATE>
     <CHANGE>-1.002</CHANGE>
+<<<<<<< HEAD
   </CURRENCY>
   <CURRENCY>
     <NAME>Kronas</NAME>
@@ -122,6 +123,8 @@
     <RATE>0.2783</RATE>
     <CHANGE>0.506</CHANGE>
 >>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
+=======
+>>>>>>> afd371ecdb2a23f2e7d6103306435d534bca7cd5
   </CURRENCY>
   <CURRENCY>
     <NAME>Krona</NAME>
@@ -129,12 +132,17 @@
     <CURRENCYCODE>SEK</CURRENCYCODE>
     <COUNTRY>Sweden</COUNTRY>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <RATE>0.4190</RATE>
     <CHANGE>0.096</CHANGE>
 =======
     <RATE>0.4186</RATE>
     <CHANGE>1.062</CHANGE>
 >>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
+=======
+    <RATE>0.4171</RATE>
+    <CHANGE>-0.453</CHANGE>
+>>>>>>> afd371ecdb2a23f2e7d6103306435d534bca7cd5
   </CURRENCY>
   <CURRENCY>
     <NAME>Franc</NAME>
@@ -142,12 +150,17 @@
     <CURRENCYCODE>CHF</CURRENCYCODE>
     <COUNTRY>Switzerland</COUNTRY>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <RATE>3.7081</RATE>
     <CHANGE>0.317</CHANGE>
 =======
     <RATE>3.6964</RATE>
     <CHANGE>0.489</CHANGE>
 >>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
+=======
+    <RATE>3.7092</RATE>
+    <CHANGE>0.03</CHANGE>
+>>>>>>> afd371ecdb2a23f2e7d6103306435d534bca7cd5
   </CURRENCY>
   <CURRENCY>
     <NAME>Dinar</NAME>
@@ -155,26 +168,32 @@
     <CURRENCYCODE>JOD</CURRENCYCODE>
     <COUNTRY>Jordan</COUNTRY>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <RATE>5.1642</RATE>
     <CHANGE>-0.068</CHANGE>
 =======
     <RATE>5.1677</RATE>
     <CHANGE>0.014</CHANGE>
 >>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
+=======
+    <RATE>5.1824</RATE>
+    <CHANGE>0.352</CHANGE>
+>>>>>>> afd371ecdb2a23f2e7d6103306435d534bca7cd5
   </CURRENCY>
   <CURRENCY>
     <NAME>Pound</NAME>
     <UNIT>10</UNIT>
     <CURRENCYCODE>LBP</CURRENCYCODE>
     <COUNTRY>Lebanon</COUNTRY>
-    <RATE>0.0242</RATE>
-    <CHANGE>0</CHANGE>
+    <RATE>0.0243</RATE>
+    <CHANGE>0.413</CHANGE>
   </CURRENCY>
   <CURRENCY>
     <NAME>Pound</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>EGP</CURRENCYCODE>
     <COUNTRY>Egypt</COUNTRY>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <RATE>0.2050</RATE>
     <CHANGE>0.196</CHANGE>
@@ -186,3 +205,9 @@
   </CURRENCY>
 </CURRENCIES>CURRENCIES>S>ES>
 >>>>>>> 2a0a16dfe21e4efff02349df2eba3bbb4b43e6ca
+=======
+    <RATE>0.2060</RATE>
+    <CHANGE>0.488</CHANGE>
+  </CURRENCY>
+</CURRENCIES>
+>>>>>>> afd371ecdb2a23f2e7d6103306435d534bca7cd5
