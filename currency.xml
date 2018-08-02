@@ -50,7 +50,7 @@
     <CHANGE>0.23</CHANGE>
   </CURRENCY>
   <CURRENCY>
-    <NAME>krones</NAME>
+    <NAME>krone</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>DKK</CURRENCYCODE>
     <COUNTRY>Denmark</COUNTRY>
@@ -58,7 +58,7 @@
     <CHANGE>-0.278</CHANGE>
   </CURRENCY>
   <CURRENCY>
-    <NAME>Krones</NAME>
+    <NAME>Krone</NAME>
     <UNIT>1</UNIT>
     <CURRENCYCODE>NOK</CURRENCYCODE>
     <COUNTRY>Norway</COUNTRY>
